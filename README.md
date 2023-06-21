@@ -1,4 +1,4 @@
-# Quectel MC60  AT Commands
+# Quectel MC60  AT Command
 
 This is an example Arduino sketch that demonstrates how to use the `SoftwareSerial` library to make a call, send an SMS, and read an SMS on an Arduino board.
 
